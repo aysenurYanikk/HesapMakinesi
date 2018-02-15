@@ -145,19 +145,40 @@ namespace hesapMakinasi
                 textBox1.Text = sonuc.ToString();
             }
            
-        
+        else if(islem=="/")
+            {
+                if (sayi2 == 0)
+                {
+                    MessageBox.Show("sıfıra bölünme hatası");
+                }
+                else
+                {
+                    sonuc = sayi1 / sayi2;
+                    textBox1.Text = sonuc.ToString();
+                }
+            }
+            else if (islem == "*")
+            {
+                sonuc = sayi1 * sayi2;
+                textBox1.Text = sonuc.ToString();
+            }
+
 
         }
 
         private void button15_Click(object sender, EventArgs e)
         {
-           
+            islem = "*";
+            sayi1 = Convert.ToDouble(textBox1.Text);
+            textBox1.Text = "0";
         }
 
         private void button16_Click(object sender, EventArgs e)
         {
             
-            
+             islem = "/";
+            sayi1 = Convert.ToDouble(textBox1.Text);
+            textBox1.Text = "0";
 
         }
 
