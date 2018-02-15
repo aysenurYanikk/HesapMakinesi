@@ -1,0 +1,9 @@
+c:\users\ayşenur\documents\visual studio 2017\Projects\hesapMakinasi\hesapMakinasi\obj\Debug\hesapMakinasi.csprojResolveAssemblyReference.cache
+c:\users\ayşenur\documents\visual studio 2017\Projects\hesapMakinasi\hesapMakinasi\obj\Debug\hesapMakinasi.Form1.resources
+c:\users\ayşenur\documents\visual studio 2017\Projects\hesapMakinasi\hesapMakinasi\obj\Debug\hesapMakinasi.Properties.Resources.resources
+c:\users\ayşenur\documents\visual studio 2017\Projects\hesapMakinasi\hesapMakinasi\obj\Debug\hesapMakinasi.csproj.GenerateResource.Cache
+c:\users\ayşenur\documents\visual studio 2017\Projects\hesapMakinasi\hesapMakinasi\bin\Debug\hesapMakinasi.exe.config
+c:\users\ayşenur\documents\visual studio 2017\Projects\hesapMakinasi\hesapMakinasi\bin\Debug\hesapMakinasi.exe
+c:\users\ayşenur\documents\visual studio 2017\Projects\hesapMakinasi\hesapMakinasi\bin\Debug\hesapMakinasi.pdb
+c:\users\ayşenur\documents\visual studio 2017\Projects\hesapMakinasi\hesapMakinasi\obj\Debug\hesapMakinasi.exe
+c:\users\ayşenur\documents\visual studio 2017\Projects\hesapMakinasi\hesapMakinasi\obj\Debug\hesapMakinasi.pdb
